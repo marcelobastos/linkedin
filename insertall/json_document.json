@@ -8,7 +8,7 @@
       "last_name": "Smith",
       "birth_date": "1985-03-15",
       "person_type": "E",
-      "employee_id": "EMP001",
+      "entity_id": "EMP001",
       "hired_date": "2010-06-01"
     },
     {
@@ -19,7 +19,7 @@
       "last_name": "Johnson",
       "birth_date": "1990-07-22",
       "person_type": "C",
-      "customer_id": "CUST001",
+      "entity_id": "CUST001",
       "customer_since": "2015-09-10"
     },
     {
@@ -30,7 +30,7 @@
       "last_name": "Brown",
       "birth_date": "1978-11-30",
       "person_type": "E",
-      "employee_id": "EMP002",
+      "entity_id": "EMP002",
       "hired_date": "2008-04-15"
     },
     {
@@ -41,7 +41,7 @@
       "last_name": "Davis",
       "birth_date": "1982-09-05",
       "person_type": "C",
-      "customer_id": "CUST002",
+      "entity_id": "CUST002",
       "customer_since": "2018-02-20"
     },
     {
@@ -52,7 +52,7 @@
       "last_name": "Wilson",
       "birth_date": "1995-12-12",
       "person_type": "E",
-      "employee_id": "EMP003",
+      "entity_id": "EMP003",
       "hired_date": "2019-03-01"
     },
     {
@@ -63,7 +63,7 @@
       "last_name": "Martinez",
       "birth_date": "1988-04-18",
       "person_type": "C",
-      "customer_id": "CUST003",
+      "entity_id": "CUST003",
       "customer_since": "2016-11-15"
     },
     {
@@ -74,7 +74,7 @@
       "last_name": "Anderson",
       "birth_date": "1975-08-25",
       "person_type": "E",
-      "employee_id": "EMP004",
+      "entity_id": "EMP004",
       "hired_date": "2005-09-20"
     },
     {
@@ -85,7 +85,7 @@
       "last_name": "Taylor",
       "birth_date": "1992-01-08",
       "person_type": "C",
-      "customer_id": "CUST004",
+      "entity_id": "CUST004",
       "customer_since": "2019-07-30"
     },
     {
@@ -96,7 +96,7 @@
       "last_name": "Thomas",
       "birth_date": "1980-06-14",
       "person_type": "E",
-      "employee_id": "EMP005",
+      "entity_id": "EMP005",
       "hired_date": "2012-11-05"
     },
     {
@@ -107,7 +107,7 @@
       "last_name": "Jackson",
       "birth_date": "1987-10-03",
       "person_type": "C",
-      "customer_id": "CUST005",
+      "entity_id": "CUST005",
       "customer_since": "2017-04-12"
     },
     {
@@ -118,7 +118,7 @@
       "last_name": "White",
       "birth_date": "1972-12-28",
       "person_type": "E",
-      "employee_id": "EMP006",
+      "entity_id": "EMP006",
       "hired_date": "2003-08-18"
     },
     {
@@ -129,7 +129,7 @@
       "last_name": "Harris",
       "birth_date": "1984-05-21",
       "person_type": "C",
-      "customer_id": "CUST006",
+      "entity_id": "CUST006",
       "customer_since": "2014-12-03"
     },
     {
@@ -140,7 +140,7 @@
       "last_name": "Martin",
       "birth_date": "1991-09-17",
       "person_type": "E",
-      "employee_id": "EMP007",
+      "entity_id": "EMP007",
       "hired_date": "2016-02-22"
     },
     {
@@ -151,7 +151,7 @@
       "last_name": "Thompson",
       "birth_date": "1976-07-09",
       "person_type": "C",
-      "customer_id": "CUST007",
+      "entity_id": "CUST007",
       "customer_since": "2013-10-15"
     },
     {
@@ -162,7 +162,7 @@
       "last_name": "Garcia",
       "birth_date": "1989-03-26",
       "person_type": "E",
-      "employee_id": "EMP008",
+      "entity_id": "EMP008",
       "hired_date": "2014-07-08"
     },
     {
@@ -173,7 +173,7 @@
       "last_name": "Robinson",
       "birth_date": "1983-11-11",
       "person_type": "C",
-      "customer_id": "CUST008",
+      "entity_id": "CUST008",
       "customer_since": "2018-09-25"
     },
     {
@@ -184,7 +184,7 @@
       "last_name": "Clark",
       "birth_date": "1970-04-30",
       "person_type": "E",
-      "employee_id": "EMP009",
+      "entity_id": "EMP009",
       "hired_date": "2001-05-14"
     },
     {
@@ -195,7 +195,7 @@
       "last_name": "Rodriguez",
       "birth_date": "1994-08-19",
       "person_type": "C",
-      "customer_id": "CUST009",
+      "entity_id": "CUST009",
       "customer_since": "2020-01-07"
     },
     {
@@ -206,7 +206,7 @@
       "last_name": "Lewis",
       "birth_date": "1986-02-13",
       "person_type": "E",
-      "employee_id": "EMP010",
+      "entity_id": "EMP010",
       "hired_date": "2011-10-10"
     },
     {
@@ -217,7 +217,7 @@
       "last_name": "Lee",
       "birth_date": "1979-12-07",
       "person_type": "C",
-      "customer_id": "CUST010",
+      "entity_id": "CUST010",
       "customer_since": "2015-06-28"
     },
     {
@@ -228,7 +228,7 @@
       "last_name": "Walker",
       "birth_date": "1993-07-24",
       "person_type": "E",
-      "employee_id": "EMP011",
+      "entity_id": "EMP011",
       "hired_date": "2017-09-04"
     },
     {
@@ -239,7 +239,7 @@
       "last_name": "Hall",
       "birth_date": "1981-10-16",
       "person_type": "C",
-      "customer_id": "CUST011",
+      "entity_id": "CUST011",
       "customer_since": "2016-08-19"
     },
     {
@@ -250,7 +250,7 @@
       "last_name": "Allen",
       "birth_date": "1974-05-03",
       "person_type": "E",
-      "employee_id": "EMP012",
+      "entity_id": "EMP012",
       "hired_date": "2006-12-11"
     },
     {
@@ -261,7 +261,7 @@
       "last_name": "Young",
       "birth_date": "1988-09-29",
       "person_type": "C",
-      "customer_id": "CUST012",
+      "entity_id": "CUST012",
       "customer_since": "2019-03-17"
     },
     {
@@ -272,7 +272,7 @@
       "last_name": "King",
       "birth_date": "1996-01-20",
       "person_type": "E",
-      "employee_id": "EMP013",
+      "entity_id": "EMP013",
       "hired_date": "2020-02-14"
     },
     {
@@ -283,7 +283,7 @@
       "last_name": "Wright",
       "birth_date": "1977-06-06",
       "person_type": "C",
-      "customer_id": "CUST013",
+      "entity_id": "CUST013",
       "customer_since": "2014-04-22"
     },
     {
@@ -294,7 +294,7 @@
       "last_name": "Lopez",
       "birth_date": "1982-12-01",
       "person_type": "E",
-      "employee_id": "EMP014",
+      "entity_id": "EMP014",
       "hired_date": "2009-08-25"
     },
     {
@@ -305,7 +305,7 @@
       "last_name": "Hill",
       "birth_date": "1990-03-09",
       "person_type": "C",
-      "customer_id": "CUST014",
+      "entity_id": "CUST014",
       "customer_since": "2017-11-08"
     },
     {
@@ -316,7 +316,7 @@
       "last_name": "Scott",
       "birth_date": "1973-08-27",
       "person_type": "E",
-      "employee_id": "EMP015",
+      "entity_id": "EMP015",
       "hired_date": "2004-03-30"
     },
     {
@@ -327,7 +327,7 @@
       "last_name": "Green",
       "birth_date": "1985-11-18",
       "person_type": "C",
-      "customer_id": "CUST015",
+      "entity_id": "CUST015",
       "customer_since": "2016-05-13"
     },
     {
@@ -338,7 +338,7 @@
       "last_name": "Adams",
       "birth_date": "1991-04-02",
       "person_type": "E",
-      "employee_id": "EMP016",
+      "entity_id": "EMP016",
       "hired_date": "2015-07-19"
     },
     {
@@ -349,7 +349,7 @@
       "last_name": "Baker",
       "birth_date": "1978-09-14",
       "person_type": "C",
-      "customer_id": "CUST016",
+      "entity_id": "CUST016",
       "customer_since": "2013-12-05"
     },
     {
@@ -360,7 +360,7 @@
       "last_name": "Gonzalez",
       "birth_date": "1987-02-22",
       "person_type": "E",
-      "employee_id": "EMP017",
+      "entity_id": "EMP017",
       "hired_date": "2012-04-16"
     },
     {
@@ -371,7 +371,7 @@
       "last_name": "Nelson",
       "birth_date": "1980-07-11",
       "person_type": "C",
-      "customer_id": "CUST017",
+      "entity_id": "CUST017",
       "customer_since": "2018-10-09"
     },
     {
@@ -382,7 +382,7 @@
       "last_name": "Carter",
       "birth_date": "1993-12-23",
       "person_type": "E",
-      "employee_id": "EMP018",
+      "entity_id": "EMP018",
       "hired_date": "2018-01-29"
     },
     {
@@ -393,7 +393,7 @@
       "last_name": "Mitchell",
       "birth_date": "1975-05-19",
       "person_type": "C",
-      "customer_id": "CUST018",
+      "entity_id": "CUST018",
       "customer_since": "2015-08-24"
     },
     {
@@ -404,7 +404,7 @@
       "last_name": "Perez",
       "birth_date": "1983-10-07",
       "person_type": "E",
-      "employee_id": "EMP019",
+      "entity_id": "EMP019",
       "hired_date": "2010-09-13"
     },
     {
@@ -415,7 +415,7 @@
       "last_name": "Roberts",
       "birth_date": "1989-06-26",
       "person_type": "C",
-      "customer_id": "CUST019",
+      "entity_id": "CUST019",
       "customer_since": "2019-12-02"
     },
     {
@@ -426,7 +426,7 @@
       "last_name": "Turner",
       "birth_date": "1971-03-04",
       "person_type": "E",
-      "employee_id": "EMP020",
+      "entity_id": "EMP020",
       "hired_date": "2002-06-27"
     },
     {
@@ -437,7 +437,7 @@
       "last_name": "Phillips",
       "birth_date": "1984-08-31",
       "person_type": "C",
-      "customer_id": "CUST020",
+      "entity_id": "CUST020",
       "customer_since": "2017-02-18"
     },
     {
@@ -448,7 +448,7 @@
       "last_name": "Campbell",
       "birth_date": "1992-01-15",
       "person_type": "E",
-      "employee_id": "EMP021",
+      "entity_id": "EMP021",
       "hired_date": "2016-10-03"
     },
     {
@@ -459,7 +459,7 @@
       "last_name": "Parker",
       "birth_date": "1977-09-20",
       "person_type": "C",
-      "customer_id": "CUST021",
+      "entity_id": "CUST021",
       "customer_since": "2014-07-14"
     },
     {
@@ -470,7 +470,7 @@
       "last_name": "Evans",
       "birth_date": "1986-04-28",
       "person_type": "E",
-      "employee_id": "EMP022",
+      "entity_id": "EMP022",
       "hired_date": "2011-12-05"
     },
     {
@@ -481,7 +481,7 @@
       "last_name": "Edwards",
       "birth_date": "1981-11-09",
       "person_type": "C",
-      "customer_id": "CUST022",
+      "entity_id": "CUST022",
       "customer_since": "2016-03-21"
     },
     {
@@ -492,7 +492,7 @@
       "last_name": "Collins",
       "birth_date": "1974-07-03",
       "person_type": "E",
-      "employee_id": "EMP023",
+      "entity_id": "EMP023",
       "hired_date": "2007-08-09"
     },
     {
@@ -503,7 +503,7 @@
       "last_name": "Stewart",
       "birth_date": "1988-02-17",
       "person_type": "C",
-      "customer_id": "CUST023",
+      "entity_id": "CUST023",
       "customer_since": "2018-05-28"
     },
     {
@@ -514,7 +514,7 @@
       "last_name": "Sanchez",
       "birth_date": "1995-09-12",
       "person_type": "E",
-      "employee_id": "EMP024",
+      "entity_id": "EMP024",
       "hired_date": "2019-06-17"
     },
     {
@@ -525,7 +525,7 @@
       "last_name": "Morris",
       "birth_date": "1979-12-26",
       "person_type": "C",
-      "customer_id": "CUST024",
+      "entity_id": "CUST024",
       "customer_since": "2015-10-30"
     },
     {
@@ -536,7 +536,7 @@
       "last_name": "Rogers",
       "birth_date": "1983-05-08",
       "person_type": "E",
-      "employee_id": "EMP025",
+      "entity_id": "EMP025",
       "hired_date": "2009-04-20"
     },
     {
@@ -547,7 +547,7 @@
       "last_name": "Reed",
       "birth_date": "1990-08-23",
       "person_type": "C",
-      "customer_id": "CUST025",
+      "entity_id": "CUST025",
       "customer_since": "2017-09-04"
     },
     {
@@ -558,7 +558,7 @@
       "last_name": "Cook",
       "birth_date": "1972-06-13",
       "person_type": "E",
-      "employee_id": "EMP026",
+      "entity_id": "EMP026",
       "hired_date": "2004-11-15"
     },
     {
@@ -569,7 +569,7 @@
       "last_name": "Morgan",
       "birth_date": "1987-03-29",
       "person_type": "C",
-      "customer_id": "CUST026",
+      "entity_id": "CUST026",
       "customer_since": "2016-12-12"
     },
     {
@@ -580,7 +580,7 @@
       "last_name": "Bell",
       "birth_date": "1975-10-02",
       "person_type": "E",
-      "employee_id": "EMP027",
+      "entity_id": "EMP027",
       "hired_date": "2006-05-08"
     },
     {
@@ -591,7 +591,7 @@
       "last_name": "Murphy",
       "birth_date": "1982-01-19",
       "person_type": "C",
-      "customer_id": "CUST027",
+      "entity_id": "CUST027",
       "customer_since": "2014-02-27"
     },
     {
@@ -602,7 +602,7 @@
       "last_name": "Bailey",
       "birth_date": "1991-07-04",
       "person_type": "E",
-      "employee_id": "EMP028",
+      "entity_id": "EMP028",
       "hired_date": "2015-03-16"
     },
     {
@@ -613,7 +613,7 @@
       "last_name": "Rivera",
       "birth_date": "1978-12-11",
       "person_type": "C",
-      "customer_id": "CUST028",
+      "entity_id": "CUST028",
       "customer_since": "2013-08-19"
     },
     {
@@ -624,7 +624,7 @@
       "last_name": "Cooper",
       "birth_date": "1984-09-25",
       "person_type": "E",
-      "employee_id": "EMP029",
+      "entity_id": "EMP029",
       "hired_date": "2010-01-25"
     },
     {
@@ -635,7 +635,7 @@
       "last_name": "Richardson",
       "birth_date": "1989-04-07",
       "person_type": "C",
-      "customer_id": "CUST029",
+      "entity_id": "CUST029",
       "customer_since": "2018-07-09"
     },
     {
@@ -646,7 +646,7 @@
       "last_name": "Cox",
       "birth_date": "1971-11-22",
       "person_type": "E",
-      "employee_id": "EMP030",
+      "entity_id": "EMP030",
       "hired_date": "2003-02-14"
     },
     {
@@ -657,7 +657,7 @@
       "last_name": "Howard",
       "birth_date": "1986-06-16",
       "person_type": "C",
-      "customer_id": "CUST030",
+      "entity_id": "CUST030",
       "customer_since": "2017-04-03"
     },
     {
@@ -668,7 +668,7 @@
       "last_name": "Ward",
       "birth_date": "1993-02-28",
       "person_type": "E",
-      "employee_id": "EMP031",
+      "entity_id": "EMP031",
       "hired_date": "2017-08-21"
     },
     {
@@ -679,7 +679,7 @@
       "last_name": "Torres",
       "birth_date": "1976-08-10",
       "person_type": "C",
-      "customer_id": "CUST031",
+      "entity_id": "CUST031",
       "customer_since": "2015-05-15"
     },
     {
@@ -690,7 +690,7 @@
       "last_name": "Peterson",
       "birth_date": "1980-03-06",
       "person_type": "E",
-      "employee_id": "EMP032",
+      "entity_id": "EMP032",
       "hired_date": "2012-09-30"
     },
     {
@@ -701,7 +701,7 @@
       "last_name": "Gray",
       "birth_date": "1985-10-31",
       "person_type": "C",
-      "customer_id": "CUST032",
+      "entity_id": "CUST032",
       "customer_since": "2019-01-14"
     },
     {
@@ -712,7 +712,7 @@
       "last_name": "Ramirez",
       "birth_date": "1974-12-24",
       "person_type": "E",
-      "employee_id": "EMP033",
+      "entity_id": "EMP033",
       "hired_date": "2005-07-11"
     },
     {
@@ -723,7 +723,7 @@
       "last_name": "James",
       "birth_date": "1988-05-20",
       "person_type": "C",
-      "customer_id": "CUST033",
+      "entity_id": "CUST033",
       "customer_since": "2016-09-26"
     },
     {
@@ -734,7 +734,7 @@
       "last_name": "Watson",
       "birth_date": "1992-07-15",
       "person_type": "E",
-      "employee_id": "EMP034",
+      "entity_id": "EMP034",
       "hired_date": "2018-03-05"
     },
     {
@@ -745,7 +745,7 @@
       "last_name": "Brooks",
       "birth_date": "1977-01-03",
       "person_type": "C",
-      "customer_id": "CUST034",
+      "entity_id": "CUST034",
       "customer_since": "2014-10-18"
     },
     {
@@ -756,7 +756,7 @@
       "last_name": "Kelly",
       "birth_date": "1983-09-08",
       "person_type": "E",
-      "employee_id": "EMP035",
+      "entity_id": "EMP035",
       "hired_date": "2011-06-27"
     },
     {
@@ -767,7 +767,7 @@
       "last_name": "Sanders",
       "birth_date": "1989-11-27",
       "person_type": "C",
-      "customer_id": "CUST035",
+      "entity_id": "CUST035",
       "customer_since": "2017-12-08"
     },
     {
@@ -778,7 +778,7 @@
       "last_name": "Price",
       "birth_date": "1970-04-17",
       "person_type": "E",
-      "employee_id": "EMP036",
+      "entity_id": "EMP036",
       "hired_date": "2001-10-22"
     },
     {
@@ -789,7 +789,7 @@
       "last_name": "Bennett",
       "birth_date": "1986-12-05",
       "person_type": "C",
-      "customer_id": "CUST036",
+      "entity_id": "CUST036",
       "customer_since": "2015-02-09"
     },
     {
@@ -800,7 +800,7 @@
       "last_name": "Wood",
       "birth_date": "1979-06-30",
       "person_type": "E",
-      "employee_id": "EMP037",
+      "entity_id": "EMP037",
       "hired_date": "2008-12-15"
     },
     {
@@ -811,7 +811,7 @@
       "last_name": "Barnes",
       "birth_date": "1982-03-14",
       "person_type": "C",
-      "customer_id": "CUST037",
+      "entity_id": "CUST037",
       "customer_since": "2018-04-23"
     },
     {
@@ -822,7 +822,7 @@
       "last_name": "Ross",
       "birth_date": "1994-08-01",
       "person_type": "E",
-      "employee_id": "EMP038",
+      "entity_id": "EMP038",
       "hired_date": "2019-09-09"
     },
     {
@@ -833,7 +833,7 @@
       "last_name": "Henderson",
       "birth_date": "1975-11-18",
       "person_type": "C",
-      "customer_id": "CUST038",
+      "entity_id": "CUST038",
       "customer_since": "2013-06-03"
     },
     {
@@ -844,7 +844,7 @@
       "last_name": "Coleman",
       "birth_date": "1980-02-22",
       "person_type": "E",
-      "employee_id": "EMP039",
+      "entity_id": "EMP039",
       "hired_date": "2010-07-19"
     },
     {
@@ -855,7 +855,7 @@
       "last_name": "Jenkins",
       "birth_date": "1987-09-13",
       "person_type": "C",
-      "customer_id": "CUST039",
+      "entity_id": "CUST039",
       "customer_since": "2016-11-07"
     },
     {
@@ -866,7 +866,7 @@
       "last_name": "Perry",
       "birth_date": "1991-05-09",
       "person_type": "E",
-      "employee_id": "EMP040",
+      "entity_id": "EMP040",
       "hired_date": "2016-04-11"
     },
     {
@@ -877,7 +877,7 @@
       "last_name": "Powell",
       "birth_date": "1973-10-26",
       "person_type": "C",
-      "customer_id": "CUST040",
+      "entity_id": "CUST040",
       "customer_since": "2014-12-29"
     },
     {
@@ -888,7 +888,7 @@
       "last_name": "Long",
       "birth_date": "1984-07-07",
       "person_type": "E",
-      "employee_id": "EMP041",
+      "entity_id": "EMP041",
       "hired_date": "2012-02-13"
     },
     {
@@ -899,7 +899,7 @@
       "last_name": "Patterson",
       "birth_date": "1976-12-20",
       "person_type": "C",
-      "customer_id": "CUST041",
+      "entity_id": "CUST041",
       "customer_since": "2015-08-31"
     },
     {
@@ -910,7 +910,7 @@
       "last_name": "Hughes",
       "birth_date": "1989-03-19",
       "person_type": "E",
-      "employee_id": "EMP042",
+      "entity_id": "EMP042",
       "hired_date": "2014-05-26"
     },
     {
@@ -921,7 +921,7 @@
       "last_name": "Flores",
       "birth_date": "1981-06-02",
       "person_type": "C",
-      "customer_id": "CUST042",
+      "entity_id": "CUST042",
       "customer_since": "2017-10-16"
     },
     {
@@ -932,7 +932,7 @@
       "last_name": "Washington",
       "birth_date": "1993-01-27",
       "person_type": "E",
-      "employee_id": "EMP043",
+      "entity_id": "EMP043",
       "hired_date": "2018-08-06"
     },
     {
@@ -943,7 +943,7 @@
       "last_name": "Butler",
       "birth_date": "1972-09-04",
       "person_type": "C",
-      "customer_id": "CUST043",
+      "entity_id": "CUST043",
       "customer_since": "2013-03-12"
     },
     {
@@ -954,7 +954,7 @@
       "last_name": "Simmons",
       "birth_date": "1985-04-16",
       "person_type": "E",
-      "employee_id": "EMP044",
+      "entity_id": "EMP044",
       "hired_date": "2011-09-22"
     },
     {
@@ -965,7 +965,7 @@
       "last_name": "Foster",
       "birth_date": "1978-11-29",
       "person_type": "C",
-      "customer_id": "CUST044",
+      "entity_id": "CUST044",
       "customer_since": "2016-01-05"
     },
     {
@@ -976,7 +976,7 @@
       "last_name": "Gonzales",
       "birth_date": "1987-08-12",
       "person_type": "E",
-      "employee_id": "EMP045",
+      "entity_id": "EMP045",
       "hired_date": "2013-12-02"
     },
     {
@@ -987,7 +987,7 @@
       "last_name": "Bryant",
       "birth_date": "1990-02-08",
       "person_type": "C",
-      "customer_id": "CUST045",
+      "entity_id": "CUST045",
       "customer_since": "2018-06-19"
     },
     {
@@ -998,7 +998,7 @@
       "last_name": "Alexander",
       "birth_date": "1974-05-31",
       "person_type": "E",
-      "employee_id": "EMP046",
+      "entity_id": "EMP046",
       "hired_date": "2006-10-09"
     },
     {
@@ -1009,7 +1009,7 @@
       "last_name": "Russell",
       "birth_date": "1983-07-23",
       "person_type": "C",
-      "customer_id": "CUST046",
+      "entity_id": "CUST046",
       "customer_since": "2015-04-27"
     },
     {
@@ -1020,7 +1020,7 @@
       "last_name": "Griffin",
       "birth_date": "1992-10-10",
       "person_type": "E",
-      "employee_id": "EMP047",
+      "entity_id": "EMP047",
       "hired_date": "2017-05-15"
     },
     {
@@ -1031,7 +1031,7 @@
       "last_name": "Diaz",
       "birth_date": "1976-03-26",
       "person_type": "C",
-      "customer_id": "CUST047",
+      "entity_id": "CUST047",
       "customer_since": "2014-09-08"
     },
     {
@@ -1042,7 +1042,7 @@
       "last_name": "Hayes",
       "birth_date": "1988-12-14",
       "person_type": "E",
-      "employee_id": "EMP048",
+      "entity_id": "EMP048",
       "hired_date": "2015-11-30"
     },
     {
@@ -1053,7 +1053,7 @@
       "last_name": "Myers",
       "birth_date": "1979-09-21",
       "person_type": "C",
-      "customer_id": "CUST048",
+      "entity_id": "CUST048",
       "customer_since": "2017-07-24"
     },
     {
@@ -1064,7 +1064,7 @@
       "last_name": "Ford",
       "birth_date": "1982-06-18",
       "person_type": "E",
-      "employee_id": "EMP049",
+      "entity_id": "EMP049",
       "hired_date": "2009-03-09"
     },
     {
@@ -1075,7 +1075,7 @@
       "last_name": "Hamilton",
       "birth_date": "1986-01-04",
       "person_type": "C",
-      "customer_id": "CUST049",
+      "entity_id": "CUST049",
       "customer_since": "2016-08-02"
     },
     {
@@ -1086,7 +1086,7 @@
       "last_name": "Graham",
       "birth_date": "1971-07-28",
       "person_type": "E",
-      "employee_id": "EMP050",
+      "entity_id": "EMP050",
       "hired_date": "2004-04-05"
     },
     {
@@ -1097,7 +1097,7 @@
       "last_name": "Sullivan",
       "birth_date": "1984-10-22",
       "person_type": "C",
-      "customer_id": "CUST050",
+      "entity_id": "CUST050",
       "customer_since": "2018-02-11"
     }
   ]
